@@ -1,0 +1,15 @@
+C:\Users\refil\source\repos\MySurvey\MySurvey\bin\Debug\MySurvey.exe.config
+C:\Users\refil\source\repos\MySurvey\MySurvey\bin\Debug\MySurvey.exe
+C:\Users\refil\source\repos\MySurvey\MySurvey\bin\Debug\MySurvey.pdb
+C:\Users\refil\source\repos\MySurvey\MySurvey\obj\Debug\MySurvey.csproj.AssemblyReference.cache
+C:\Users\refil\source\repos\MySurvey\MySurvey\obj\Debug\MySurvey.csproj.SuggestedBindingRedirects.cache
+C:\Users\refil\source\repos\MySurvey\MySurvey\obj\Debug\MySurvey.Form1.resources
+C:\Users\refil\source\repos\MySurvey\MySurvey\obj\Debug\MySurvey.Properties.Resources.resources
+C:\Users\refil\source\repos\MySurvey\MySurvey\obj\Debug\MySurvey.csproj.GenerateResource.cache
+C:\Users\refil\source\repos\MySurvey\MySurvey\obj\Debug\MySurvey.csproj.CoreCompileInputs.cache
+C:\Users\refil\source\repos\MySurvey\MySurvey\obj\Debug\MySurvey.exe
+C:\Users\refil\source\repos\MySurvey\MySurvey\obj\Debug\MySurvey.pdb
+C:\Users\refil\source\repos\MySurvey\MySurvey\obj\Debug\MySurvey.Form2.resources
+C:\Users\refil\source\repos\MySurvey\MySurvey\obj\Debug\MySurvey.Form3.resources
+C:\Users\refil\source\repos\MySurvey\MySurvey\bin\Debug\Database1.mdf
+C:\Users\refil\source\repos\MySurvey\MySurvey\bin\Debug\Database1_log.ldf
